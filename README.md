@@ -1,6 +1,6 @@
 # RSG2_UpdateServer
-## UpdateServer files for project RSGallery2 componentn , modules and plugins
+## UpdateServer files for RSGallery2 project, its component, modules and plugins
 
-Extension's manifest files to pull updates and check for actual version
+Extension's manifest files to check for actual version and easy pull updates from within joomla web page
 
   > will be filled later
